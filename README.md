@@ -1,2 +1,2 @@
 # WEB
-Aprendizado WEB com HTML, CSS, PHP, JS
+Aprendizado WEB com HTML, CSS, PHP, JS MySQL, jQuery.
